@@ -35,7 +35,7 @@ class _subjectState extends State<subject> {
     );
   }
 
-  //dynamic widget to display featured image from gsheets
+  //dynamic widget to display featured image fro  m gsheets
   Widget getWidget(
     Cell subject,
     int subjectindex,
