@@ -22,7 +22,7 @@ Future<void> validate() async {
     readElectives().then((value) async {
       runApp(GetMaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'KECH68',
+        title: 'KECH6',
         theme: ThemeData(primarySwatch: Colors.green),
         home: home(),
       ));
